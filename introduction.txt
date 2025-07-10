@@ -1,0 +1,4 @@
+Added introduction file
+My name is Nkurunziza George, and I am passionate about data analytics and technology. I enjoy working on projects that involve data exploration, SQL, and automation using scripting languages like Bash. I'm also currently learning how systems work under the hood, especially in DevOps environments.
+
+I'm always eager to improve my technical skills and contribute to real-world projects. Beyond technology, I value collaboration, problem-solving, and continuous learning." > introduction.txt
