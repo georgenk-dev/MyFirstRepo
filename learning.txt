@@ -1,1 +1,5 @@
- i have leaned how to create Braches make commets and use pull request 
+What I have learned from this course
+
+Throughout this course, I have learned how to use Bash scripting effectively, including working with loops, conditionals, and parsing input. I now understand how to write efficient scripts to automate tasks, filter data, and manage system-level operations.
+
+This knowledge has helped me become more confident in handling DevOps-related tasks and interacting with the command line.
