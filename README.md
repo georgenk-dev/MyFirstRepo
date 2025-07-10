@@ -1,2 +1,1 @@
-# MyFirstRepo
-A beginner’s first steps into programming and version control
+This is my first repository created as part of a GitHub learning task
